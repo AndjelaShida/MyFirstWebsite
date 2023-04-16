@@ -1,0 +1,101 @@
+
+/**********************************HERO SECTION**************************/
+
+    .hero-text{
+    font-size: 24px;
+    font-weight: 900px; 
+    position: absolute;
+    top: 200px;
+    left: 65px;
+    background-color: #50C878;
+    color: white;
+    }
+
+    .hero-img {
+        width: 100%;
+    }
+    
+   /********************************HEADER******************************/
+ 
+.header {
+    width: 90%;
+    margin: 20px ;
+}
+.link a {
+    color: black;
+    margin-right: 30px;
+    
+}
+.logo {
+    font-weight: 100;
+}
+
+  /***************************ICON SECTION***********************************/
+ .wrapper {
+    margin: 50px;
+    margin-left: 100px;
+ }
+
+  .icontext {
+    font-size: 24px;
+    font-weight: 900px;
+    padding-left: 120px;
+  }
+  .icon-section {
+    padding-top: 40px;
+    padding-left: 0px;
+    padding-right: 0;
+    padding-bottom: 40px; 
+}
+.text-center {
+    color: 	#A0A0A0;
+   
+}
+
+
+.h4 {
+    color: #303030;
+    text-decoration:dashed;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+ .iconimg-fluid {
+    padding-left: 130px; }
+    
+ .underline {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding-left: 0;
+    border-bottom: 1px solid #9e9e9e; 
+ }
+
+ 
+.links {
+    background-color: #303030;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.desription {
+    color: #9e9e9e;
+    
+}
+.titlelink {
+    color: whitesmoke;
+    
+    
+}
+.titlelink1 {
+    color: 	#B8B8B8 ;
+    border-bottom: 1px solid whitesmoke ;
+}
+.footer {
+    background-color: black;
+    height: 50px;
+  
+}
+
+.footertext {
+    text-align: center;
+    color: 	#888888;
+    padding-top: 10px;
+}
